@@ -1,2 +1,2 @@
 # LeetCode
-This repository contains Python programs on LeetCode
+This repository contains Python DSA programs on LeetCode.
